@@ -3,6 +3,7 @@ package com.searchhub.services.ProductBackendDBHandlerService.Entity;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.PrimaryKeyJoinColumn;
 import java.math.BigInteger;
