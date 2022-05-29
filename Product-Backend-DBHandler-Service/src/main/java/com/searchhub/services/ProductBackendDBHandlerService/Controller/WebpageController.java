@@ -9,6 +9,7 @@ import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
 
+@CrossOrigin
 @RestController
 @CrossOrigin
 public class WebpageController {
