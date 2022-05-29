@@ -11,7 +11,6 @@ import java.util.List;
 
 @CrossOrigin
 @RestController
-@CrossOrigin
 public class ProductController {
 
     // Instance of JpaRepository for Products entity

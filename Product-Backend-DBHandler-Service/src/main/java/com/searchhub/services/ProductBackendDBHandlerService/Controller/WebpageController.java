@@ -11,7 +11,6 @@ import java.util.List;
 
 @CrossOrigin
 @RestController
-@CrossOrigin
 public class WebpageController {
 
     //Instance of the Jpa Repository for the webpage entity
