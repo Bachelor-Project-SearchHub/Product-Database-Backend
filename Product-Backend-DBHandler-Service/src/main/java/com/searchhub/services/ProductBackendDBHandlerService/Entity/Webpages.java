@@ -64,14 +64,6 @@ public class Webpages {
         this.logo = logo;
     }
 
-    /*public byte[] getLogo() {
-        return logo;
-    }
-
-    public void setLogo(byte[] logo) {
-        this.logo = logo;
-    }*/
-
     public BigInteger getProductid() {
         return productid;
     }
