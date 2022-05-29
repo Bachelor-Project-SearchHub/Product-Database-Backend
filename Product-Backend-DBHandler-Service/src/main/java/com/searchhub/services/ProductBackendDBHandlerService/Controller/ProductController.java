@@ -10,6 +10,7 @@ import java.math.BigInteger;
 import java.util.List;
 
 @RestController
+@CrossOrigin
 public class ProductController {
 
     // Instance of JpaRepository for Products entity
